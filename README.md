@@ -26,6 +26,3 @@ A simple and powerful backend API built with **FastAPI** to manage daily tasks. 
 - PostgreSQL / MySQL / SQLite
 
 ---
-
-## 📁 Folder Structure
-
